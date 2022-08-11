@@ -1,7 +1,5 @@
 # textos
-textos da disciplina de pensamento computacional.                                                                                                             
-Sou a rayssa tenho 15 anos moro em Antonio Olinto,com meus pais,gosto muito de gatos e cachorro e sou estudante de pensamento computacional,gosto de viajar com minha familia.Gosto de conversar com meus amigos,de ganhar abraços.
-  
+textos da disciplina de pensamento computacional.                                                                                                        
 
 
 
